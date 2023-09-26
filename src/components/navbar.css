@@ -1,0 +1,28 @@
+.navbar {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 85px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+}
+
+.shoppingcart {
+    padding-top: 10px;
+}
